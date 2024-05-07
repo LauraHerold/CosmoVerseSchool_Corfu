@@ -1,4 +1,5 @@
 # CosmoVerseSchool_Corfu
+THIS IS WORK IN PROGRESS
 Material for the lecture "From LCDM to EDE" at the 2024 CosmoVerse summer school on Corfu.
 
 - Hands-on Session 1: 
